@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <RootNamespace>ContentTypeTextNet.Pe.Plugins.Sk0520.ImageStocker</RootNamespace>
+    <RootNamespace>ContentTypeTextNet.Pe.Plugins.Original.ImageStocker</RootNamespace>
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
