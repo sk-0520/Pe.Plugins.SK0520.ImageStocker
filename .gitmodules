@@ -1,0 +1,4 @@
+[submodule "Source/Pe"]
+	path = Source/Pe
+	url = https://sk_0520@bitbucket.org/sk_0520/pe.git
+	branch = master
