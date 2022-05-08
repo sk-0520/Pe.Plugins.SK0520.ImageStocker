@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ContentTypeTextNet.Pe.Plugins.Original.ImageStocker.Models
+namespace ContentTypeTextNet.Pe.Plugins.Original.ImageStocker.Addon
 {
     internal class ImageStockerAddon : AddonBase
     {

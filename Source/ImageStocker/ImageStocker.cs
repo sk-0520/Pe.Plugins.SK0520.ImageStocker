@@ -5,7 +5,7 @@ using ContentTypeTextNet.Pe.Bridge.Plugin;
 using ContentTypeTextNet.Pe.Bridge.Plugin.Addon;
 using ContentTypeTextNet.Pe.Bridge.Plugin.Preferences;
 using ContentTypeTextNet.Pe.Embedded.Abstract;
-using ContentTypeTextNet.Pe.Plugins.Original.ImageStocker.Models;
+using ContentTypeTextNet.Pe.Plugins.Original.ImageStocker.Addon;
 
 namespace ContentTypeTextNet.Pe.Plugins.Original.ImageStocker
 {
